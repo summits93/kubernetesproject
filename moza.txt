@@ -1,0 +1,2 @@
+GHSA-39hc-v87j-747x
+        - cve_id: CVE-2022-42003
